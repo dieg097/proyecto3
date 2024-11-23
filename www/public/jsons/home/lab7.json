@@ -1,0 +1,68 @@
+{
+    "padrinos_destacados":[
+        {
+            "picture": "img/Imagen Testimonios/ana_torres.jpeg",
+            "nombre": "Ana Torres",
+            "intro" : "Adoptar a mi perro fue la mejor decisión que he tomado. Gracias por refugiar y darles una segunda oportunidad."
+        },
+        {
+            "picture": "img/Imagen Testimonios/carlos_martinez.jpeg",
+            "nombre": "Carlos Martínez",
+            "intro" : "Refugiar animales es un acto de amor y compasión. La adopción cambia vidas, incluida la mía."
+        },
+        {
+            "picture": "img/Imagen Testimonios/laura_perez.jpeg",
+            "nombre": "Laura Pérez",
+            "intro" : "La iniciativa de refugiar es fundamental para proteger a los animales. Adoptarlos"
+        },
+        {
+            "picture": "img/Imagen Testimonios/juan_rodriguez.jpeg",
+            "nombre": "Juan Rodríguez",
+            "intro" : "La adopción es una responsabilidad hermosa. Refugiar animales nos permite ser parte del cambio y darles un hogar lleno de amor."
+        }
+    ],
+    "lomitos_recientes":[
+        {
+            "picture": "img/lomitos/merlin_1.jpeg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/negrito_puppy.jpeg",
+            "nombre": "Snoop Dogy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/merlin_2.jpeg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/negrito_puppy_2.jpeg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        }
+    ],
+    "casitas":[
+        {
+            "picture": "img/como_hacer_una_casa_para_perros_20490_orig.jpg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/negrito_puppy.jpeg",
+            "nombre": "Snoop Dogy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/merlin_2.jpeg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        },
+        {
+            "picture": "img/lomitos/negrito_puppy_2.jpeg",
+            "nombre": "Snoop Doggy Doe",
+            "intro" : "Este encantador lomito es una mezcla de Pitbull y Labrador, y destaca por su increíble lealtad. Con su mirada tierna y su cola siempre enérgica, este compañero de cuatro patas es un verdadero amigo incondicional."
+        }
+    ]
+}

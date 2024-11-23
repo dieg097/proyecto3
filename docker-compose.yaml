@@ -1,0 +1,47 @@
+
+version: "3.8"
+services:
+  mysql:
+    image: mysql:8.0.29
+    container_name: mysql
+    volumes:
+      - ./mysql_lib:/var/lib/mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: pass
+      MYSQL_DATABASE: database
+    networks:
+      - develop-network
+
+  www:
+    build:
+      context: .
+    container_name: www
+    volumes:
+      - ./www:/var/www/html
+      - ./php-config:/etc/www-local-config
+    ports:
+      - "80:80"
+    depends_on:
+      - mysql
+    networks:
+      - develop-network
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:latest
+    container_name: phpmyadmin
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      PMA_HOST: mysql
+      MYSQL_ROOT_PASSWORD: pass
+    depends_on:
+      - mysql
+    networks:
+      - develop-network
+
+networks:
+  develop-network:
+    driver: bridge

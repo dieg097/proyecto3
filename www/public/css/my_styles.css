@@ -1,0 +1,88 @@
+body{
+    color: #431c5b;
+}
+
+.navbar-violet{
+    background-color: #502262;
+}
+
+.bg-violet{
+    background-color: #502262;
+}
+
+.content-header {
+    padding: 5px .5rem;
+}
+
+.article-title {
+    font-size: 1.3em !important;
+    font-weight: 510;
+    color: #013e5a;
+}
+
+h2{
+    font-size: 1.7em;
+    font-weight: 400;
+}
+
+.lomitos {
+    color: #ffffff;
+    background-color: #502262;
+}
+
+.lomitos .card{
+    box-shadow: none;
+    border: none;
+}
+
+.lomitos h5{
+    text-align: left;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.lomitos p{
+    text-align: justify;
+    font-size: 1em;
+}
+
+.lomitos .card img {
+    width: 80%;
+    margin: auto;
+}
+
+#snoop_doggy_doe_pic{
+    width: 90%;
+    cursor: pointer;
+}
+
+.cuidadores h5{
+    text-align: left;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.cuidadores p{
+    text-align: justify;
+    font-size: 1em;
+}
+
+#agenda .days{
+    margin: auto;
+}
+
+#send_frm{
+    display: block;
+    margin: auto;
+    margin-bottom: 0.8em;
+}
+
+footer h4, footer p{
+    color: #431c5b;
+}
+
+footer .redes i {
+    font-size: 2.3em;
+    font-weight: ;
+    color: #0bb3c0;
+}

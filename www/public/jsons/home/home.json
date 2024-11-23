@@ -1,0 +1,9 @@
+{   
+"user_name" : "Jhon Doe",
+"user_pic" : "/img/jhon_doe_user.jpg",   
+"about_us" : {
+        "image": "/img/snoop_doggy_doe.jpg",
+        "title":"\"Cuidando al lomito snoop doggy doe \": un sitio web revolucionario para el cuidado de perros callejeros;",
+        "content": "<p class= \"pt-3 text-justify\">Únete a nuestra plataforma innovadora que busca mejorar la vida de los perros callejeros. En \"Cuidando al Lomito Snoop Doggy Doe\" fomentamos la colaboración comunitaria para brindar cuidado y atención a estos valiosos animales. Utilizando tecnología avanzada, rastreamos a los perros a través de avistamientos reportados por nuestros usuarios, gracias a la transmisión y recepción Bluetooth en nuestra aplicación móvil.</p> <p class=\"pt-3 text-justify\">Nuestra plataforma te mantendrá informado sobre la ubicación geográfica de los perros identificados, lo que nos permite actuar rápidamente en situaciones de peligro o emergencia. Además, si tienes la aplicación abierta y el GPS activado, recibirás alertas cuando haya perros cercanos, lo cual es especialmente útil mientras conduces. Así, juntos podemos prevenir accidentes y garantizar la seguridad de los perros y las personas.</p> <p class=\"pt-3 text-justify\">¡Únete a nuestra comunidad comprometida y marca la diferencia en la vida de los perros callejeros!</p>"
+    }
+}

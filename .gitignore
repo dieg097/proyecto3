@@ -1,0 +1,13 @@
+# Ignorar archivos y directorios temporales de MySQL
+mysql_lib/
+*.sock
+
+# Ignorar contenedores y dependencias generadas
+/logs/
+/node_modules/
+.env
+
+# Ignorar archivos del sistema
+*.log
+*.tmp
+*.bak
